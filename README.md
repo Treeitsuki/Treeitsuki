@@ -1,3 +1,11 @@
 ### Hi there 👋
 
-<img src="https://skillicons.dev/icons?i=python,js,typescript,dart,nest,django,fastapi,mongodb,sqlite,prisma,github,vscode" /> <br /><br />
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Treeitsuki&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Treeitsuki15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Treeitsuki&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Treeitsuki&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Treeitsuki&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Treeitsuki&theme=gruvbox)
