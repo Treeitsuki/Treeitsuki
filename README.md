@@ -10,7 +10,5 @@
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Treeitsuki&theme=gruvbox)
 
-
-## Generate Snake
 ![](https://raw.githubusercontent.com/Treeitsuki/Treeitsuki/output/github-contribution-grid-snake.svg)
 
